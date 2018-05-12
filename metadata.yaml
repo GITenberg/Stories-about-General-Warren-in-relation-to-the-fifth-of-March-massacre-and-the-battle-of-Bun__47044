@@ -1,10 +1,16 @@
 _repo: Stories-about-General-Warren-in-relation-to-the-fifth-of-March-massacre-and-the-battle-of-Bun__47044
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47044-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Rebecca Warren
     gutenberg_agent_id: '44108'
     url: http://www.gutenberg.org/2009/agents/44108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47044#Stories-about-General-Warren-in-relation-to-the-fifth-of-March-massacre-and-the-battle-of-Bun_
 gutenberg_issued: '2014-10-05'
 gutenberg_type: Text
 identifiers:
