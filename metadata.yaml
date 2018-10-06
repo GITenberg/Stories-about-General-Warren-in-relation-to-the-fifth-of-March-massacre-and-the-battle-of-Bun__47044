@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "Stories about General Warren,\r\nin relation to the fifth of March massacre,\
   \ and the battle of Bunker Hill"
 url: http://www.gutenberg.org/ebooks/47044
